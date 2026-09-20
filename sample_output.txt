@@ -1,0 +1,19 @@
+Using built-in sample data.
+========================================
+ ENERGY MONITORING REPORT
+========================================
+
+Measurement counts by device:
+transformer_1: 3
+solar_inverter: 2
+battery: 1
+
+Average number of measurements per device: 2.00
+
+Sorted average power (input units):
+transformer_1: 463.33
+solar_inverter: 195.00
+battery: -80.00
+
+Threshold alarms:
+Alarm: transformer_1 at 08:30: 510 >= limit 500
