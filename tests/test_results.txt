@@ -1,0 +1,13 @@
+test_cli_file_demo_and_missing_file (test_energy_monitor.EnergyMonitorTests.test_cli_file_demo_and_missing_file) ... ok
+test_decimal_comma_bom_and_blank_lines (test_energy_monitor.EnergyMonitorTests.test_decimal_comma_bom_and_blank_lines) ... ok
+test_equality_negative_values_and_later_limit (test_energy_monitor.EnergyMonitorTests.test_equality_negative_values_and_later_limit) ... ok
+test_error_includes_line_number (test_energy_monitor.EnergyMonitorTests.test_error_includes_line_number) ... ok
+test_examples_match_demo (test_energy_monitor.EnergyMonitorTests.test_examples_match_demo) ... ok
+test_no_limit_column (test_energy_monitor.EnergyMonitorTests.test_no_limit_column) ... ok
+test_quoted_names_and_tabs (test_energy_monitor.EnergyMonitorTests.test_quoted_names_and_tabs) ... ok
+test_reject_invalid_files (test_energy_monitor.EnergyMonitorTests.test_reject_invalid_files) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.036s
+
+OK
