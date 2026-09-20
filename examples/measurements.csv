@@ -1,0 +1,7 @@
+time,device,power,limit
+08:00,solar_inverter,180,250
+08:00,transformer_1,420,500
+08:15,transformer_1,460,500
+08:15,solar_inverter,210,250
+08:30,transformer_1,510,500
+08:30,battery,-80,100

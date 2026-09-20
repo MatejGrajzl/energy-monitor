@@ -1,0 +1,5 @@
+time,device,power,limit
+08:00,heater,120,150
+08:15,heater,160,150
+08:00,fan,30,50
+08:15,fan,40,50
